@@ -1,5 +1,6 @@
 'use client';
 import { useEffect, useRef, useState } from 'react';
+import './line-motion.js';
 import './styles.css';
 import './theme.css';
 import './contrast.css';
